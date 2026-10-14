@@ -5,7 +5,7 @@
 ## 🗄️ Entity-Relationship Diagram
 Below is the visual representation of the database schema showcasing the relationships between all 15 core entities:
 
-<img src="./screenshots/scr.png" alt="Database Schema ER Diagram" width="800" />
+<img src="./screenshots/scr.png" alt="Database Schema ER Diagram" width="500" />
 
 ## 🛠️ Tech Stack
 * **Database Engine:** PostgreSQL
